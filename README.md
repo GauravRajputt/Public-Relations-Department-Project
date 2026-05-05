@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-This project applies **Natural Language Processing (NLP)** techniques to analyze customer reviews of Amazon Alexa products. The aim is to extract insights about public sentiment and feedback, helping the Public Relations department understand customer perceptions and improve engagement strategies.
+This project applies **Natural Language Processing (NLP)** techniques to analyze customer reviews of Amazon Alexa products. The aim is to extract insights about public sentiment and feedback, helping the Public Relations department understand customer perceptions and improve engagement strategies
 
 ## 📂 Project Structure
 
